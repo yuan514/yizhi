@@ -1,0 +1,79 @@
+.nav {
+    background: #ffffff;
+}
+
+.contact {
+    margin-top: 80px;
+    width: 100%;
+    height: 624px;
+    background: #f5f5f5;
+}
+
+.contact_con {
+    width: 1084px;
+    margin: 0 auto;
+    overflow: hidden;
+    padding-top: 110px;
+}
+
+.contact_con ul {
+    float: left;
+    margin-top:50px;
+}
+
+.contact_con ul li {
+    overflow: hidden;
+}
+
+.contact_con ul li:nth-child(1) img {
+    display: block;
+    float: left;
+}
+
+.contact_con ul li:nth-child(1) i {
+    display: block;
+    float: left;
+    margin-left: 12px;
+    font-size: 24px;
+    color: #00a5ea;
+}
+
+.contact_con ul li:nth-child(2), li:nth-child(3), li:nth-child(4) {
+    overflow: hidden;
+    margin-top: 40px;
+}
+
+.contact_con ul li:nth-child(2) span, li:nth-child(3) span, li:nth-child(4) span {
+    display: block;
+    font-size: 16px;
+    color: #00a5ea;
+}
+
+.contact_con ul li:nth-child(2) em, li:nth-child(3) em, li:nth-child(4) em {
+    display: block;
+    font-size: 16px;
+    color: #333333;
+    margin-top: 14px;
+}
+
+.contact_con img {
+    display: block;
+    float: right;
+}
+
+
+.footer{
+    height:350px;
+    background: none;
+}
+
+
+
+
+
+
+
+
+
+
+
